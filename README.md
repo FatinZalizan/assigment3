@@ -2,21 +2,18 @@
 <html>
 <head>
 <style>
-p.uppercase {
-  text-transform: uppercase;
+h1 {
+  text-shadow: 2px 2px;
 }
-
-p.lowercase {
-  text-transform: lowercase;
-}
-
 </style>
 </head>
 <body>
 
-<p class="uppercase">This is a Heading</p>
-<p class="lowercase">This is a paragraph.</p>
+<h1>This is a Heading</h1>
+<h1>This is a paragraph.</h1>
 
 </body>
 </html>
+
+
 
