@@ -1,23 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-
-p.italic {
-  font-style: italic;
-}
-
-p.oblique {
-  font-style: oblique;
+<style> 
+input {
+  width: 100%;
 }
 </style>
 </head>
 <body>
 
-<p class="italic">This is a Heading</p>
-<p class="oblique">This is a paragraph</p>
+<h2>This is a Heading</h2>
+
+<form>
+  <label for="fname">This is a paragraph</label>
+  <input type="text" id="fname" name="fname">
+</form>
 
 </body>
 </html>
-
 
