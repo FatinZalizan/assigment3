@@ -1,12 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style>
+body {
+  background-color: lightgrey;
+  color: blue;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+</style>
 </head>
 <body>
 
-<h1  style="background-color:DodgerBlue;">This is a Heading</h1>
-<p style="background-color:Tomato;">This is a paragraph.</p>
+<h1>This is a Heading</h1>
+<p>This is a paragraph</p>
 
 </body>
 </html>
