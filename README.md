@@ -2,14 +2,12 @@
 <html>
 <head>
 <style>
-body {
-  background-color: lightgrey;
-  color: blue;
+h1 {
+  text-align: center;
 }
 
-h1 {
-  background-color: black;
-  color: white;
+h2 {
+  text-align: left;
 }
 
 </style>
@@ -17,7 +15,7 @@ h1 {
 <body>
 
 <h1>This is a Heading</h1>
-<p>This is a paragraph</p>
+<h2>This is a paragraph</h2>
 
 </body>
 </html>
