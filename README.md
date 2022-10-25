@@ -3,11 +3,11 @@
 <head>
 <style>
 h1 {
-  text-align: center;
+  text-decoration: overline;
 }
 
 h2 {
-  text-align: left;
+  text-decoration: line-through;
 }
 
 </style>
@@ -15,7 +15,8 @@ h2 {
 <body>
 
 <h1>This is a Heading</h1>
-<h2>This is a paragraph</h2>
+<h2>This is a paragraph.</h2>
+
 
 </body>
 </html>
