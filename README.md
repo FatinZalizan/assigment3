@@ -2,18 +2,22 @@
 <html>
 <head>
 <style>
-h1 {
-  text-shadow: 2px 2px;
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
 }
 </style>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<h1>This is a paragraph.</h1>
+<p class="italic">This is a Heading</p>
+<p class="oblique">This is a paragraph</p>
 
 </body>
 </html>
-
 
 
